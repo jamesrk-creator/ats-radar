@@ -1,0 +1,23 @@
+name: ATS radar
+on:
+  schedule:
+    - cron: "17 6 * * *"   # 06:17 UTC daily, before the 07:08 and 07:37 Claude alerts
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python ats_radar.py run
+      - name: Commit results
+        run: |
+          git config user.name "ats-radar-bot"
+          git config user.email "ats-radar-bot@users.noreply.github.com"
+          git add out/
+          git commit -m "ATS radar $(date -u +%F)" || echo "no changes"
+          git push
