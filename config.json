@@ -1,26 +1,228 @@
 {
   "profiles": {
     "finance_ai": {
-      "title_keywords": ["financ", "invest", "trad", "wealth", "portfolio", "equity", "econom", "compliance", "humanit", "histor", "classic", "philosoph", "literat", "writing", "writer", "generalist", "tutor", "expert", "fellow", "evaluator", "ai trainer"],
-      "title_exclude": ["engineer", "software", "accountant", "payroll", "nurse", "physician", "radiolog", "math", "physics", "chemistry", "biology", "coding", "python", "language specialist", "voice"],
-      "location_keywords": ["uk", "united kingdom", "england", "london", "remote", "international", "worldwide", "world wide", "europe", "emea", "anywhere"],
+      "title_keywords": [
+        "financ",
+        "invest",
+        "trad",
+        "wealth",
+        "portfolio",
+        "equity",
+        "econom",
+        "compliance",
+        "humanit",
+        "histor",
+        "classic",
+        "philosoph",
+        "literat",
+        "writing",
+        "writer",
+        "generalist",
+        "tutor",
+        "expert",
+        "fellow",
+        "evaluator",
+        "ai trainer"
+      ],
+      "title_exclude": [
+        "engineer",
+        "software",
+        "accountant",
+        "payroll",
+        "nurse",
+        "physician",
+        "radiolog",
+        "math",
+        "physics",
+        "chemistry",
+        "biology",
+        "coding",
+        "python",
+        "language specialist",
+        "voice"
+      ],
+      "location_keywords": [
+        "uk",
+        "united kingdom",
+        "england",
+        "london",
+        "remote",
+        "international",
+        "worldwide",
+        "world wide",
+        "europe",
+        "emea",
+        "anywhere"
+      ],
       "boards": [
-        {"ats": "greenhouse", "token": "xai"},
-        {"ats": "greenhouse", "token": "prolificacademicltd"},
-        {"ats": "greenhouse", "token": "scaleai"},
-        {"ats": "greenhouse", "token": "agency"},
-        {"ats": "greenhouse", "token": "remotasks"},
-        {"ats": "greenhouse", "token": "innodatainc"},
-        {"ats": "ashby", "token": "10xteam"},
-        {"ats": "ashby", "token": "anyone-ai"}
+        {
+          "ats": "greenhouse",
+          "token": "xai"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "prolificacademicltd"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "scaleai"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "agency"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "remotasks"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "innodatainc"
+        },
+        {
+          "ats": "ashby",
+          "token": "10xteam"
+        },
+        {
+          "ats": "ashby",
+          "token": "anyone-ai"
+        }
       ]
     },
     "green_early_career": {
-      "title_keywords": ["sustainab", "esg", "climate", "carbon", "net zero", "ecolog", "biodivers", "conservation", "environment", "policy", "public affairs", "campaign", "advocacy", "communications", "comms", "content", "social media", "marketing", "research", "impact", "engagement"],
-      "title_exclude": ["senior", "head of", "director", "principal", "lead ", "vp", "chief", "engineer", "developer", "intern"],
-      "location_keywords": ["uk", "united kingdom", "england", "remote", "exeter", "devon", "bristol", "taunton", "dorset", "somerset", "south west", "anywhere"],
-      "boards": []
+      "title_keywords": [
+        "sustainab",
+        "esg",
+        "climate",
+        "carbon",
+        "net zero",
+        "ecolog",
+        "biodivers",
+        "conservation",
+        "environment",
+        "policy",
+        "public affairs",
+        "campaign",
+        "advocacy",
+        "communications",
+        "comms",
+        "content",
+        "social media",
+        "marketing",
+        "research",
+        "impact",
+        "engagement"
+      ],
+      "title_exclude": [
+        "senior",
+        "head of",
+        "director",
+        "principal",
+        "lead ",
+        "vp",
+        "chief",
+        "engineer",
+        "developer",
+        "intern"
+      ],
+      "location_keywords": [
+        "uk",
+        "united kingdom",
+        "england",
+        "remote",
+        "exeter",
+        "devon",
+        "bristol",
+        "taunton",
+        "dorset",
+        "somerset",
+        "south west",
+        "anywhere"
+      ],
+      "boards": [
+        {
+          "ats": "greenhouse",
+          "token": "ovoenergy"
+        },
+        {
+          "ats": "ashby",
+          "token": "sylvera"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "watershed"
+        },
+        {
+          "ats": "ashby",
+          "token": "watershed"
+        },
+        {
+          "ats": "ashby",
+          "token": "isometric"
+        },
+        {
+          "ats": "greenhouse",
+          "token": "patch"
+        },
+        {
+          "ats": "lever",
+          "token": "patch"
+        },
+        {
+          "ats": "lever",
+          "token": "pachama"
+        },
+        {
+          "ats": "ashby",
+          "token": "toogoodtogo"
+        },
+        {
+          "ats": "ashby",
+          "token": "abundance"
+        }
+      ]
     }
   },
-  "probe_candidates": ["octopusenergy", "ovoenergy", "sylvera", "watershed", "normative", "greenly", "planetmark", "climatepartner", "carbontrust", "isometric", "climatex", "patch", "pachama", "clientearth", "wwfuk", "greenpeaceuk", "rewiringamerica", "ecologi", "treeapp", "goodenergy", "ecotricity", "bulb", "myenergi", "zapmap", "pivotpower", "oxwash", "olio", "toogoodtogo", "mosscarbon", "earthblox", "satelligence", "nattergy", "nature-metrics", "naturemetrics", "biodiversitycapital", "ecometrica", "carbonclean", "abundance", "triodos", "bettersociety"]
+  "probe_candidates": [
+    "octopusenergy",
+    "ovoenergy",
+    "sylvera",
+    "watershed",
+    "normative",
+    "greenly",
+    "planetmark",
+    "climatepartner",
+    "carbontrust",
+    "isometric",
+    "climatex",
+    "patch",
+    "pachama",
+    "clientearth",
+    "wwfuk",
+    "greenpeaceuk",
+    "rewiringamerica",
+    "ecologi",
+    "treeapp",
+    "goodenergy",
+    "ecotricity",
+    "bulb",
+    "myenergi",
+    "zapmap",
+    "pivotpower",
+    "oxwash",
+    "olio",
+    "toogoodtogo",
+    "mosscarbon",
+    "earthblox",
+    "satelligence",
+    "nattergy",
+    "nature-metrics",
+    "naturemetrics",
+    "biodiversitycapital",
+    "ecometrica",
+    "carbonclean",
+    "abundance",
+    "triodos",
+    "bettersociety"
+  ]
 }
