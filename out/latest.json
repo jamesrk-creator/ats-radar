@@ -1,58 +1,18 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "profiles": {
   "finance_ai": {
-   "matched": 150,
+   "matched": 151,
    "new": [
     {
-     "title": "Regulatory Legal Counsel",
-     "location": "London, England, United Kingdom",
-     "url": "https://job-boards.greenhouse.io/xai/jobs/5273897007",
-     "updated": "2026-11-20T18:18:08-05:00",
+     "title": "Finance Fellow - Human Frontier Collective",
+     "location": "Canada; United Kingdom; United States",
+     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
+     "updated": "2026-11-24T00:53:19-05:00",
      "pay": "",
-     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the univer",
+     "snippet": "The&nbsp; Human Frontier Collective (HFC) \u2019s mission is to bring the world's best minds to shape the future of AI \u2013 because the future of AI depends not only on powerful models, but on the people who teach them to think.&nbsp;We bring together researchers, academics, and domain leaders across 70+ fields \u2013 over 90% of members hold doctorates \u2013 to shape how frontier AI systems are built, evaluated, ",
      "ats": "greenhouse",
-     "board": "xai"
-    },
-    {
-     "title": "Threat Intelligence Analyst, Threat Disruption",
-     "location": "London, England, United Kingdom",
-     "url": "https://job-boards.greenhouse.io/xai/jobs/5216075007",
-     "updated": "2026-11-23T08:43:57-05:00",
-     "pay": "",
-     "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars. SpaceXSI is building Super Intelligence to help humanity understand the univer",
-     "ats": "greenhouse",
-     "board": "xai"
-    },
-    {
-     "title": "AI Quality Analyst -  Flexible Hours",
-     "location": "Remote - South Carolina  ",
-     "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266629009",
-     "updated": "2026-09-16T11:16:23-04:00",
-     "pay": "",
-     "snippet": "Innodata&nbsp;(Nasdaq: INOD) is a global data engineering company. We believe that data and Artificial Intelligence (AI) are inextricably linked.&nbsp;Our mission is to enable the responsible advancement of artificial intelligence by providing the data, evaluation frameworks, and human expertise required to build AI systems that can be trusted at scale.&nbsp;We provide a range of transferable solu",
-     "ats": "greenhouse",
-     "board": "innodatainc"
-    },
-    {
-     "title": "Applied AI Analyst -  Flexible Hours",
-     "location": "Remote - Maryland  ",
-     "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4266798009",
-     "updated": "2026-09-16T11:16:31-04:00",
-     "pay": "",
-     "snippet": "Innodata&nbsp;(Nasdaq: INOD) is a global data engineering company. We believe that data and Artificial Intelligence (AI) are inextricably linked.&nbsp;Our mission is to enable the responsible advancement of artificial intelligence by providing the data, evaluation frameworks, and human expertise required to build AI systems that can be trusted at scale.&nbsp;We provide a range of transferable solu",
-     "ats": "greenhouse",
-     "board": "innodatainc"
-    },
-    {
-     "title": "FP&A Analyst (ALE)",
-     "location": "Fully Remote Remote",
-     "url": "https://jobs.ashbyhq.com/anyone-ai/f9aa8b63-1e64-417f-88aa-fe33b1a32413",
-     "updated": "2026-10-27T23:31:47.778+00:00",
-     "pay": "$80 \u2013 $150 per hour",
-     "snippet": "ABOUT THE OPPORTUNITY Anyone AI is seeking FP&A Analysts to develop realistic tasks that test AI agents\u2019 ability to analyze business performance and support financial planning. You will create original tasks and reference models, then evaluate agents working with spreadsheets, planning software, and financial datasets. Company: Anyone AI Location: Remote Engagement: Project-based with flexible hou",
-     "ats": "ashby",
-     "board": "anyone-ai"
+     "board": "scaleai"
     }
    ],
    "all_urls": [
@@ -172,6 +132,7 @@
     "https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4968798101",
     "https://job-boards.greenhouse.io/innodatainc/jobs/4266629009",
     "https://job-boards.greenhouse.io/innodatainc/jobs/4266798009",
+    "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
     "https://job-boards.greenhouse.io/xai/jobs/4931315007",
     "https://job-boards.greenhouse.io/xai/jobs/5017529007",
     "https://job-boards.greenhouse.io/xai/jobs/5207615007",
@@ -209,7 +170,7 @@
    ]
   },
   "green_early_career": {
-   "matched": 10,
+   "matched": 9,
    "new": [],
    "all_urls": [
     "https://careers.ovo.com/?gh_jid=5909270",
@@ -220,8 +181,7 @@
     "https://jobs.ashbyhq.com/Watershed/de1ae38a-6d7d-4154-b8f4-5fbb323f0419",
     "https://jobs.ashbyhq.com/Watershed/f7ae632a-a586-409a-ad09-2923ed5dd371",
     "https://jobs.ashbyhq.com/toogoodtogo/18ab81a5-3b6c-4b1f-aaf1-b3af3012aed6",
-    "https://jobs.ashbyhq.com/toogoodtogo/9a40bacd-5380-4031-b573-4d25fbaccf0b",
-    "https://jobs.ashbyhq.com/toogoodtogo/fe6dedf2-cac3-4c7c-b519-0bd79ed5d6c9"
+    "https://jobs.ashbyhq.com/toogoodtogo/9a40bacd-5380-4031-b573-4d25fbaccf0b"
    ]
   }
  },
