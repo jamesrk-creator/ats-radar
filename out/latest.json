@@ -1,20 +1,9 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "profiles": {
   "finance_ai": {
    "matched": 151,
-   "new": [
-    {
-     "title": "Finance Fellow - Human Frontier Collective",
-     "location": "Canada; United Kingdom; United States",
-     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4565836005",
-     "updated": "2026-11-24T00:53:19-05:00",
-     "pay": "",
-     "snippet": "The&nbsp; Human Frontier Collective (HFC) \u2019s mission is to bring the world's best minds to shape the future of AI \u2013 because the future of AI depends not only on powerful models, but on the people who teach them to think.&nbsp;We bring together researchers, academics, and domain leaders across 70+ fields \u2013 over 90% of members hold doctorates \u2013 to shape how frontier AI systems are built, evaluated, ",
-     "ats": "greenhouse",
-     "board": "scaleai"
-    }
-   ],
+   "new": [],
    "all_urls": [
     "https://job-boards.eu.greenhouse.io/agency/jobs/4784881101",
     "https://job-boards.eu.greenhouse.io/agency/jobs/4784903101",
