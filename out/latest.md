@@ -1,4 +1,4 @@
-# ATS radar 2026-11-27
+# ATS radar 2026-11-28
 
 New since the last run, from employers' own job boards (Greenhouse, Lever, Ashby APIs).
 
